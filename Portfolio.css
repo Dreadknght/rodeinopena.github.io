@@ -44,6 +44,12 @@
 .image-container:hover .overlay {
  opacity: 1;
 }
+.image-container{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+}
 .clickable-image {
  max-width: 100%;
  height: auto;
