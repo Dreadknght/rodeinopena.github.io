@@ -1,9 +1,9 @@
 function das(){
-       window.open("https://docs.google.com/viewer?url=https://dreadknght.github.io/rodeinopena.github.io/DAS-31G6_2023-2024.pdf&embedded=true","_blank");
+       window.open("https://docs.google.com/spreadsheets/d/1CkhNdOJkDDXPp9EWHVg33puKDy8B5VibnE7zEeKRuSA/edit?fbclid=IwZXh0bgNhZW0CMTAAAR2nJ9EXHuKOOocivrIrv_813IoESyKWG_w8G2H4daaKnsDZ4X_BwWZUp_w_aem_WGQhCuJiWZw-StBt8DYMCg&gid=947580647#gid=947580647","_blank");
 }
 function resume(){
-       window.open("https://docs.google.com/viewer?url=https://dreadknght.github.io/rodeinopena.github.io/Resume - Opeña.pdf&embedded=true","_blank");
+       window.open("https://drive.google.com/drive/my-drive","_blank");
 }
 function accomplishment(){
-       window.open("https://docs.google.com/viewer?url=https://dreadknght.github.io/rodeinopena.github.io/Accomplishment Report - Opeña.pdf&embedded=true","_blank");
+       window.open("https://drive.google.com/drive/my-drive","_blank");
 }
